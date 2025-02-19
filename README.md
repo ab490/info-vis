@@ -1,2 +1,3 @@
 # info-vis
- Visualization Dashboard 
+
+Visualization Dashboard for Prototype (Week 6)
